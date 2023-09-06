@@ -1,1 +1,1 @@
-# ergonomy
+# Ergonomie prace u pocitace notes
